@@ -11,7 +11,7 @@
 
 ### Model Sources
 - **Repository:** https://github.com/LemkinAI/roberta-joint-ner-re
-- **Hugging Face Hub:** https://huggingface.co/lemkin-ai/roberta-joint-ner-re
+- **Hugging Face Hub:** https://huggingface.co/LemkinAI/roberta-joint-ner-re
 - **Paper:** [Coming Soon]
 
 ## Uses
